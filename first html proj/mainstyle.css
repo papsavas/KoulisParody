@@ -1,0 +1,108 @@
+body{
+    background-color:azure;
+    background-clip: content-box;
+   
+}
+
+h1{
+    font-size: 50;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(53, 52, 52);
+    text-align: center;
+    
+}
+
+h2.title{
+    text-align: center;
+}
+
+p{
+    font-size: 20;
+    text-align: left;
+}
+
+.image{
+    position: relative;
+
+    
+}
+
+
+.text{
+    background: rgba(0, 0, 0, 0.8); 
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    color
+    color: yellow;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+h3{
+    opacity: 0.8;
+}
+
+p.dhl{
+    font-size: 30;
+    text-align: center;
+    color: gray;
+    font-style: italic;
+}
+
+
+
+
+a.menu{
+    
+    font-size: 40;
+    text-decoration-line: none;
+    font-family : "Georgia";
+    
+}
+
+a.menu:hover {
+    background-color: cyan;
+    color:black;
+  }
+
+
+a.mainframe{
+    float: left;
+    
+    color:white;
+}
+
+a.news{
+   float: center;
+    color:white;
+}
+
+a.pranks{
+    float: right;
+    
+    color:rgb(161, 8, 8);
+}
+
+.box{
+    background-color: rgb(42, 153, 226);
+    width: 100%;
+    height: 46;
+    text-align: center;
+    
+}
+
+p.signature{
+    text-align: right;
+    font-style: italic;
+    opacity: 0.9
+
+}
