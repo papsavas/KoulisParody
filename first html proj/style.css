@@ -1,0 +1,74 @@
+body{
+    background-color:azure;
+    background-clip: content-box;
+   
+}
+
+h1{
+    font-size: 50;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(53, 52, 52);
+    text-align: center;
+    
+}
+
+p{
+    font-size: 20;
+    text-align: left;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    opacity: 0.9;
+}
+
+h3{
+    opacity: 0.8;
+}
+
+p.dhl{
+    font-size: 30;
+    text-align: center;
+    color: gray;
+    font-style: italic;
+}
+
+
+
+
+a.menu{
+    
+    font-size: 40;
+    text-decoration-line: none;
+    font-family : "Georgia";
+    
+}
+
+
+
+a.mainframe{
+    /*text-align: left;*/
+    color:white;
+}
+
+a.news{
+    /*text-align: left;*/
+    color:white;
+}
+
+a.pranks{
+    /*text-align: left;*/
+    
+    color:rgb(161, 8, 8);
+}
+
+.box{
+    background-color: rgb(42, 153, 226);
+    width: 100%;
+    height: 50;
+    text-align: center;
+    
+}
