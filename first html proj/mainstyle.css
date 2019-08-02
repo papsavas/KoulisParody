@@ -27,17 +27,41 @@ p{
     
 }
 
+#mera25{
+    filter: contrast(1.55) grayscale(60%);
+    -webkit-filter: grayscale(0.7) contrast(1.55);
+   
+	
+    opacity:0.8;
+    object-fit: cover;
+    text-align: right;
+    object-position: 10% 5%;
+    width: 863;
+    height: 160;
+    
+}
 
 .text{
     background: rgba(0, 0, 0, 0.8); 
     position: absolute;
     bottom: 20px;
     right: 20px;
-    color
     color: yellow;
     padding-left: 20px;
     padding-right: 20px;
     
+}
+
+.logotext{
+    background: none; 
+    position: absolute;
+    bottom: -10px;
+    left: 88px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-style: italic;
+    font-weight: bold;
 }
 
 .center {
