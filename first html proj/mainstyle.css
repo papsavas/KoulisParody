@@ -16,6 +16,12 @@ h2.title{
     text-align: center;
 }
 
+p.smltxt{
+    text-align: center;
+    opacity: 0.5;
+    font-size: 15;
+}
+
 p{
     font-size: 20;
     text-align: left;
@@ -27,7 +33,7 @@ p{
     
 }
 
-#mera25{
+.cvr_img{
     filter: contrast(1.55) grayscale(60%);
     -webkit-filter: grayscale(0.7) contrast(1.55);
    
